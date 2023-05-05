@@ -280,7 +280,7 @@ img {
 }
 
 .home_blob-img{
-  width: 180px;
+  width: 170px;
 }
 
 .home_data{
@@ -484,22 +484,26 @@ img {
   width: 85%;
 }
 .skills_react{
-  width: 90%;
+  width: 75%;
 }
 .skills_java{
   width: 90%;
 }
 .skills_node{
-  width: 70%;
+  width: 75%;
 }
 .skills_firebase{
-  width: 80%;
+  width: 85%;
 }
 .skills_python{
-  width: 60%;
+  width: 80%;
 }
 .skills_csharp{
-  width: 55%;
+  width: 75%;
+}
+
+.skills_ccpp{
+  width: 70%;
 }
 .skills_figma{
   width: 70%;
@@ -594,6 +598,7 @@ img {
 .qual_button.qual_active{
   color: var(--first-color);
 }
+
 /* project */
 
 .proj_container{

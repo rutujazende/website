@@ -280,7 +280,8 @@ img {
 }
 
 .home_blob-img{
-  width: 170px;
+  width: 160px;
+  padding-left: 70%;
 }
 
 .home_data{

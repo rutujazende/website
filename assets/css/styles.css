@@ -487,6 +487,12 @@ img {
 .skills_react{
   width: 75%;
 }
+.skills_unity{
+  width: 80%;
+}
+.skills_figma{
+  width: 75%;
+}
 .skills_java{
   width: 90%;
 }
@@ -557,11 +563,12 @@ img {
 
 .qual_data{
   display: grid;
-  grid-template-columns: 1fr max-content 1fr;
+  grid-template-columns: 0fr max-content 1.5fr;
   column-gap: 1.5rem;
 }
 
 .qual_title{
+
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
 }
@@ -585,10 +592,14 @@ img {
   border-radius: 50%;
 }
 
+.qual_container{
+  justify-content: end;
+}
+
 .qual_line{
   display: block;
-  width: 1px;
-  height: 100%;
+  width: 1.5px;
+  height: 120%;
   background-color: var(--first-color);
   transform: translate(6px, -7px);
 }

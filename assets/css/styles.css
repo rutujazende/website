@@ -416,6 +416,7 @@ img {
 .skills_header{
   display: flex;
   align-items: center;
+  margin-top: var(--mb-2-5);
   margin-bottom: var(--mb-2-5);
   cursor: pointer;
 }
@@ -1032,6 +1033,10 @@ img {
   .proj_icon{
     font-size: 2rem;
   }
+  /* .skills_header{
+    
+    margin-bottom: var(--mb-2-5);
+  } */
 
   /* .proj_content{
     padding: 6rem 0 2rem 2.5rem;

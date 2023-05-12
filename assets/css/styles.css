@@ -537,8 +537,8 @@ img {
 
 /* QUALIFICATION */
 .qual_container{
-  display: flex;
-  justify-content: space-evenly;
+  row-gap: 0;
+  justify-content: end;
 }
 
 .qual_tabs{
@@ -591,10 +591,6 @@ img {
   height: 13px;
   background-color:var(--first-color);
   border-radius: 50%;
-}
-
-.qual_container{
-  justify-content: end;
 }
 
 .qual_line{

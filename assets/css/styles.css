@@ -157,7 +157,7 @@ img {
 
 /*==================== LAYOUT ====================*/
 .container {
-  max-width: 768px;
+  max-width: 800px;
   margin-left: var(--mb-1-5);
   margin-right: var(--mb-1-5);
 }
@@ -491,17 +491,17 @@ img {
 }
 
 .skills_html{
-  width: 90%;
+  width: 95%;
 }
 
 .skills_css{
-  width: 80%;
+  width: 87%;
 }
 .skills_js{
-  width: 75%;
+  width: 90%;
 }
 .skills_ts{
-  width: 80%;
+  width: 90%;
 }
 .skills_angular{
   width: 85%;
@@ -513,29 +513,29 @@ img {
   width: 80%;
 }
 .skills_figma{
-  width: 75%;
+  width: 85%;
 }
 .skills_java{
   width: 90%;
 }
 .skills_node{
-  width: 75%;
+  width: 85%;
 }
 .skills_firebase{
   width: 85%;
 }
 .skills_python{
-  width: 80%;
+  width: 85%;
 }
 .skills_csharp{
-  width: 75%;
+  width: 80%;
 }
 
 .skills_ccpp{
   width: 70%;
 }
 .skills_figma{
-  width: 70%;
+  width: 85%;
 }
 .skills_story{
   width: 65%;
